@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="17.120001"
+   height="28.760002"
+   viewBox="0 0 17.120001 28.760003"
+   id="svg4841"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pictoquestion.svg">
+  <defs
+     id="defs4843" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.919596"
+     inkscape:cx="-12.645961"
+     inkscape:cy="17.382095"
+     inkscape:document-units="px"
+     inkscape:current-layer="g10485"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="9.5624311,17.267744"
+       orientation="-0.70710678,0.70710678"
+       id="guide4420" />
+    <sodipodi:guide
+       position="3.1227091,15.499977"
+       orientation="0.70710678,0.70710678"
+       id="guide4422" />
+    <sodipodi:guide
+       position="-7.8627008,39.61737"
+       orientation="1,0"
+       id="guide4424" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4846">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.479454,-1011.9543)">
+    <g
+       id="g10467"
+       transform="matrix(0.66934944,0,0,0.66934944,66.367439,365.25671)"
+       style="fill:#7a3060;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">
+      <g
+         id="g10485"
+         inkscape:export-xdpi="302"
+         inkscape:export-ydpi="302">
+        <g
+           transform="translate(4.5274672,-0.15167741)"
+           style="font-style:normal;font-weight:normal;font-size:59.75952148px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffd15;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5689">
+          <path
+             d="m -70.93222,993.7995 q 0,-1.25495 0.119519,-2.45014 0.119519,-1.25495 0.597595,-2.33062 0.478076,-1.13543 1.434228,-2.15134 0.956153,-1.01591 2.56966,-1.85254 0.657354,-0.35856 1.852545,-0.95616 1.25495,-0.59759 2.45014,-1.43423 1.25495,-0.83663 2.151343,-1.85254 0.896393,-1.07567 0.896393,-2.33062 0,-1.37447 -1.075672,-2.15135 -1.075671,-0.83663 -2.509899,-0.83663 -1.075672,0 -1.852546,0.41832 -0.776873,0.41831 -1.374469,1.01591 -0.537835,0.5976 -0.956152,1.25495 -0.358557,0.5976 -0.717114,1.01591 l -7.230902,-5.13932 q 1.553747,-3.64533 4.90028,-5.67715 3.346534,-2.03183 7.649219,-2.03183 2.270862,0 4.601483,0.65736 2.330622,0.65735 4.183167,2.09158 1.912305,1.43423 3.047735,3.76485 1.195191,2.33062 1.195191,5.67716 0,2.86845 -1.075671,5.25884 -1.015912,2.33062 -3.705091,4.1234 -1.314709,0.89639 -2.689178,1.55375 -1.374469,0.65735 -2.56966,1.31471 -1.135431,0.65735 -1.912304,1.37447 -0.717115,0.71711 -0.717115,1.67326 l -9.262725,0 z m 0.179278,15.4777 0,-9.80054 9.262726,0 0,9.80054 -9.262726,0 z"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:59.75952148px;line-height:125%;font-family:Raleway;-inkscape-font-specification:'Raleway, Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffd15;fill-opacity:1"
+             id="path6355" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

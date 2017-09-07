@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="52.828743"
+   height="52.828743"
+   viewBox="0 0 52.828744 52.828744"
+   id="svg4841"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pictocarte.svg">
+  <defs
+     id="defs4843" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-12.623093"
+     inkscape:cy="26.856512"
+     inkscape:document-units="px"
+     inkscape:current-layer="g10467"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata4846">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.87865808,-1001.3647)">
+    <g
+       id="g10467"
+       transform="matrix(0.66934944,0,0,0.66934944,66.367439,365.25671)"
+       style="fill:#7a3060;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">
+      <g
+         id="g10485"
+         inkscape:export-xdpi="302"
+         inkscape:export-ydpi="302">
+        <circle
+           r="24.376371"
+           inkscape:export-ydpi="302"
+           inkscape:export-xdpi="302"
+           cy="1027.7791"
+           cx="25.535713"
+           id="path10410"
+           style="fill:#21a0a0;fill-opacity:1;stroke:#ffffff;stroke-width:4.07600021;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(1.493988,0,0,1.493988,-99.152154,-545.68912)" />
+        <ellipse
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path10455"
+           cx="-61.627289"
+           cy="982.86041"
+           rx="13.75"
+           ry="13.214286" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.91214168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -75.835263,988.31977 14.607469,26.06683 13.858369,-26.35018 0,0"
+           id="path10459"
+           inkscape:connector-curvature="0" />
+        <circle
+           style="fill:#21a0a0;fill-opacity:1;stroke:#ffffff;stroke-width:5.02221775;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path10465"
+           cx="-61.627293"
+           cy="982.85822"
+           r="9.4281549" />
+      </g>
+    </g>
+  </g>
+</svg>
