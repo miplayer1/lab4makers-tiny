@@ -80,8 +80,7 @@
           </div>
         </div>
       </div>
-      <div class="overlay">
-      </div>
+
     </header><!--HEADER-->
 <section id="section1" class="scrollspy">
       
@@ -240,6 +239,6 @@
 			  crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js" ></script>
     <script type="text/javascript" src="js/main.js"></script>
-    </script>
+  
   </body>
 </html>

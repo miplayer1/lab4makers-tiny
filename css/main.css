@@ -92,7 +92,9 @@ blockquote {
 	color:#7a3060;
 	font-family: raleway;
 }
-
+.ressources p{
+	font-size: 1rem;
+}
 /**MEDIA QUERIES**/
 
 @media all and (min-width: 601px){
