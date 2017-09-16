@@ -103,7 +103,7 @@
         <div class="card-image">
           <img src="assets/coding.png">
           <span class="card-title grey-text">Coding Goûter</span>
-          <a href="carte.php" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+          <a href="coding-gouter.php" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
           <p>Des ateliers hyper ludiques autour du code informatique. On crée un jeu ou une animation, on partage un goûter, on découvre ce que les autres ont fait... Un moment très conviviale que les enfants adorent.</p>
