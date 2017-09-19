@@ -83,7 +83,7 @@
 
     </header><!--HEADER-->
 <section id="section1" class="scrollspy">
-      
+
         <div class="row">
         <div id="cards" class="col s12 l10 offset-l1">
           <div class="col s12 m8 offset-m2 l4 ">
@@ -106,12 +106,12 @@
           <a href="coding-gouter.php" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
-          <p>Des ateliers hyper ludiques autour du code informatique. On crée un jeu ou une animation, on partage un goûter, on découvre ce que les autres ont fait... Un moment très conviviale que les enfants adorent.</p>
+          <p>Des ateliers hyper ludiques autour du code informatique. On crée un jeu ou une animation, on partage un goûter, on découvre ce que les autres ont fait... Un moment très convivial que les enfants adorent.</p>
         </div>
       </div>
         </div><!--CARD 2-->
         <div class="col s12 m8 offset-m2 l4 ">
-          
+
 <div class="card">
         <div class="card-image">
           <img src="assets/carte-2.png">
@@ -119,10 +119,10 @@
           <a href="carte.php" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
-          <p>Les fablabs et autres lieux de bidouille en PACA sur une carte mise à jour par qui veut. Vous êtes makers et vous vous sentez un peu isolé ? Faites vous connaitre sur la carte</p>
+          <p>Les fablabs et autres lieux de bidouille en PACA sur une carte mise à jour par qui veut. Vous êtes makers et vous vous sentez un peu isolés ? Faites vous connaître sur la carte</p>
         </div>
       </div>
-       
+
       </div><!--CARD 3-->
       </div>
 		</div><!--CARDS-->
@@ -139,9 +139,9 @@
         <div class="separator col s2 offset-s5 divider"></div>
         <div class="col s12 center-align">
         	<p class="white-text">
-        		Le collectif se compose de makers, développeurs, programmeurs... qui souhaitent mettre en lien l'univers makers et les gens. Il se passe des choses fascinentes dans les Fablabs, mais ouvrir leur porte est parfois intimident. Pourquoi ? Peut être parce qu'on ne comprend pas bien ce qu'on y fait.
-        		<br><br>Le collectif se fixe comme objectif de permettre l'acquisition, l'appropriation et le partage de connaissances dans le domaine des technologies numériques en région PACA avec, pour le moment, <a href="coding-gouter.php">des coding goûters et des ressources pour animer son atelier</a> et <a href="carte.php"> une carte collaborative</a> recensant les fabs labs et les actions en lien avec notre objet.</p>
-       
+        		Le collectif se compose de makers, développeurs, programmeurs... qui souhaitent mettre en lien l'univers makers et les gens. Il se passe des choses fascinantes dans les Fablabs, mais ouvrir leur porte est parfois intimidant. Pourquoi ? Peut être parce qu'on ne comprend pas bien ce qu'on y fait.
+        		<br><br>Le collectif se fixe comme objectif de permettre l'acquisition, l'appropriation et le partage de connaissances dans le domaine des technologies numériques en région PACA avec, pour le moment, <a href="coding-gouter.php">des coding goûters et des ressources pour animer son atelier</a> et <a href="carte.php"> une carte collaborative</a> recensant les fabslabs et les actions en lien avec notre objet.</p>
+
         </div>
        </div>
       </div>
@@ -153,10 +153,10 @@
 	      <h2 class="dark-green center-align">Contactez-nous !</h2>
 	      <div class="col s12"></div>
 	    </div>
-	
+
 	  <div class="row">
 	    <form class="col s12" action="#contact" method="POST">
-	
+
 	      <div class="row">
 	        <div class="input-field col s12">
 	          <i class="material-icons prefix">account_circle</i>
@@ -196,20 +196,20 @@
 	        <?php echo $feedback; ?>
 	      </div>
 	    </form>
-	
+
 	  </div>
 	</section><!--SECTION CONTACT FORM-->
    <footer class="page-footer">
           <div class="container  ">
             <div class="row ">
               <div class=" col  s12 center-align">
-                
+
               <blockquote>" La seule façon de comprendre une nouvelle culture et de nouveaux comportements est de devenir natif. Devenir natif est un processus d’observation, d’apprentissage et d’approfondissement, pratiqué tel un anthropologiste, impliqué directement sur le terrain et en participant étroitement avec ses hôtes à leurs cultures. "
 
                                                              <br>Brian Solis – Digital Analyst
                                                                                          </blockquote>
               </div><!--CONTACT MAIL-->
-              
+
             </div>
           </div><!--CITATION-->
           <div class="footer-copyright grey-text ">
@@ -239,6 +239,6 @@
 			  crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js" ></script>
     <script type="text/javascript" src="js/main.js"></script>
-  
+
   </body>
 </html>

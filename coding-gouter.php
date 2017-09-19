@@ -6,7 +6,7 @@
   <head>
 <?php
 	include('private/views/head.php');
-?>		  
+?>
   </head>
   <body>
 <?php
@@ -22,7 +22,7 @@
 		            <h1 class="center-align">Ateliers ludiques autours du code informatique<br> pour les enfants à partir de 7 ans</h1>
 		            <div class="separator col s4 offset-s4 divider"></div>
 		          </div>
-		
+
 		          <div class="col s12 social center-align">
 		            <a href="https://www.facebook.com/labprovence" target="_blank"><img class="responsive-img" src="assets/logo-fb.png" alt="Lien vers facebook"></a>
 		            <a href="https://twitter.com/lab_lp" target="_blank"><img class="responsive-img" src="assets/logo-twitter.png" alt="Lien vers twitter"></a>
@@ -36,13 +36,13 @@
 			<div class="col s12 m8 offset-m2 grey-text"><p>Nous mettons en place depuis 2016 des ateliers au format "coding goûter" à destination des enfants en région PACA.</p>
 			</div>
 			<div class="col s12 center-align margin-top"><a class="waves-effect waves-light btn-large"><i class="material-icons">&#xE614;</i>Prochaines dates</a></div>
-						
-			</div>		
+
+			</div>
 		</section>
 		<section class="ressources margin-top">
 			<div class="row">
 		<div class="col s12 center-align">
-				<h2>Ressources</h2>			
+				<h2>Ressources</h2>
 			</div>
       	 <div id="cards" class="col s12 l10 offset-l1">
         <div class="col s8 offset-s2 m4 xl3">
@@ -52,14 +52,14 @@
               <span class="card-title grey-text">Scratch</span>
             </div>
             <div class="card-content">
-              <p>Logiciel de programmation édité par le MIT Media Lab (en ligne ou à télécharger). Très apprécié par les enfants, il suffit de glisser-déposer des briques d'instructions pour voir prendre vie ses personnages. </p>
+              <p>Logiciel de programmation édité par le MIT Media Lab (en ligne ou à télécharger). Très apprécié par les enfants, il suffit de glisser-déposer des briques d'instructions pour voir ses personnages prendre vie. </p>
             </div>
             <div class="card-action">
               <a href="http://vimeo.com/65583694" target="_blank">Découvrir</a>
               <a href="https://scratch.mit.edu/" target="_blank">Le site</a>
             </div>
           </div>
-        </div><!--CARD 1--> 
+        </div><!--CARD 1-->
         <div class="col s8 offset-s2  m4 xl3">
           <div class="card">
             <div class="card-image">
@@ -73,7 +73,7 @@
               <a href="assets/ressources/telechargements/Briques Scratch.pdf" target="_blank">Télécharger</a>
             </div>
           </div>
-        </div><!--CARD 2--> 
+        </div><!--CARD 2-->
         <div class="col s8 offset-s2 m4 xl3">
           <div class="card">
             <div class="card-image">
@@ -103,7 +103,7 @@
           </div>
         </div><!--CARD 4-->
       </div>
-    </div><!--CARDS 1--> 
+    </div><!--CARDS 1-->
        <div class="row">
       	 <div id="cards" class="col s12 l10 offset-l1">
         <div class="col s8 offset-s2  m4 xl3">
@@ -164,7 +164,7 @@ Le déplacement du panier se fait avec les flèches du clavier.</p>
           </div>
         </div><!--CARD 4-->
       </div><!--CARDS 2-->
-           		
+
 		</section><!--RESSOURCES-->
 		<section id="section-ressources" class="scrollspy">
 
@@ -177,7 +177,7 @@ Le déplacement du panier se fait avec les flèches du clavier.</p>
         <div class="col s12 center-align">
         	<p class="white-text">
         		 Section en cours. Si vous avez des liens interressants qui pourraient servir aux autres, n'hésitez pas à nous les envoyer.</p>
-       
+
         </div>
        </div>
       </div>
