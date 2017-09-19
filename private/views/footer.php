@@ -18,8 +18,8 @@
             <div id="modal1" class="modal modal-fixed-footer">
                 <div class="modal-content">
                   <h3>SIRET</h3>
-                  <p>Sous CAPE Cosens<br>SIRET : 419 369 798 00048 <br>N° Formateur : 93 13 113 41 13</p>
-                  <h3>Responsable de la publication :</h3> <p>Agence web <a href="http://cooldev.xyz">Cooldev</a></p>
+                  <p>Association en cours de création</p>
+                  <h3>Responsable de la publication :</h3> <p>Mylène Hiezely pour le collectif</p>
                   <h3>Hébergement :</h3>
                   <p><a href="https://gandi.net">GANDI SAS</a>, Société par Actions Simplifiée au capital de 300.000€ ayant son siège social au 63-65 boulevard Massena à Paris (75013) FRANCE, immatriculée sous le numéro 423 093 459 RCS PARIS N° TVA FR81423093459 Téléphone : +33.(0) 1 70.37.76.61 .</p>
                   <h3>Gestion des données personnelles :</h3>

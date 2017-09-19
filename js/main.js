@@ -1,19 +1,31 @@
 $(function(){
 
-// Egalisation hauteurs de cartes
-  function setHeight() {
-    var hCard = $('.card:first .card-image').outerHeight();
-    var hImg = $('.card:first .card-image img').outerHeight();
-    var wImg = $('.card:first .card-image img').outerWidth();
+  // Egalisation de la hauteur des cartes
+ var heights = [];
 
-    $('#target').css("height", hCard);
-    $('#target iframe').attr({
-      height: hImg,
-      width: wImg
-    });
-  }
+ function getHeights(){
 
-  setHeight();
+ $('.card-content').each(function(){
+   heights.push($(this).outerHeight());
+ })
+ return heights;
+ }
+
+ function getMax(arr){
+   var maxHeight = Math.max(...arr);
+   return maxHeight;
+
+ }
+
+ getHeights();
+ var max = getMax(heights);
+ console.log(max);
+
+ if($(window).outerWidth() > 360) {
+   $('.card-content').each(function(){
+     $(this).css('height', max);
+   })
+ }
 
 // Initialisation sideNav
   $(".button-collapse").sideNav({

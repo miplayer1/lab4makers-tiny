@@ -5,24 +5,24 @@
 <html lang="fr">
   <head>
     <meta charset="utf-8"/>
-    <title>TinySite | Un site web simple et efficace</title>
-    <meta name="keywords" content="Création de sites web, communication digitale, responsive, site vitrine" />
-    <meta name="publisher" content="cooldev">
-    <meta name="description" content="Un site web simple, efficace et abordable pour permettre à tous de faire grandir ses idées grâce au web" />
+    <title>[LAB]4Makers] | Collectif engagé dans la transition numérique</title>
+    <meta name="keywords" content="transition numérique, coding goûter, fablab, makerspace, outils numériques" />
+    <meta name="publisher" content="[LAB]4Makers">
+    <meta name="description" content="Nous souhaitons mettre en lien les acteurs numériques de la Région PACA afin de permettre l'acquisition, l'appropriation et le partage de connaissances dans le domaine des technologies numériques " />
     <meta name="viewport" content="width=device-width initial-scale=1 user-scalable=no" />
-    <meta name="google-site-verification" content="rBRnpj5XSqUqYyI27OQ52hRYjk1PkW2Z1i3E9ces7oE" />
+    <meta name="google-site-verification" content="" />
     <link href="https://fonts.googleapis.com/css?family=Roboto|Josefin+Slab%7cRaleway:900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css" />
     <link rel="stylesheet" href="css/main.css" />
     <link rel="Shortcut icon" href="favicon.ico" type="image/x-icon" />
 <!-- Open Graph Meta Tags -->
-	<meta property="og:title" content="TinySite | Un site web simple et efficace par Cooldev.xyz" />
-	<meta property="og:site_name" content="TinySite">
-	<meta property="og:url" content="http://tinysite.cooldev.xyz/" />
-	<meta property="og:description" content="Un site web simple et efficace, pour permettre à tous de faire grandir ses idées grâce au web" />
+	<meta property="og:title" content="[LAB]4Makers] | Collectif engagé dans la transition numérique" />
+	<meta property="og:site_name" content="[LAB]4Makers">
+	<meta property="og:url" content="http://www.labprovence.xyz/" />
+	<meta property="og:description" content="Nous souhaitons mettre en lien les acteurs numériques de la Région PACA afin de permettre l'acquisition, l'appropriation et le partage de connaissances dans le domaine des technologies numériques" />
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="http://tinysite.cooldev.xyz/assets/og-img.png" />
+	<meta property="og:image" content="http://www.labprovence.xyz/assets/og-img.png" />
 
 
 <!-- Piwik -->
@@ -140,7 +140,7 @@
         <div class="col s12 center-align">
         	<p class="white-text">
         		Le collectif se compose de makers, développeurs, programmeurs... qui souhaitent mettre en lien l'univers makers et les gens. Il se passe des choses fascinentes dans les Fablabs, mais ouvrir leur porte est parfois intimident. Pourquoi ? Peut être parce qu'on ne comprend pas bien ce qu'on y fait.
-        		<br><br>Le collectif se fixe comme objectif de permettre l'acquisition, l'appropriation et le partage de connaissances dans le domaine des technologies numériques en région PACA avec, pour le moment, <a href="" target="_blank">des coding goûters et des ressources pour animer son atelier</a> et <a href="" target="_blank"> une carte collaborative</a> recensant les fabs labs et les actions en lien avec notre objet.</p>
+        		<br><br>Le collectif se fixe comme objectif de permettre l'acquisition, l'appropriation et le partage de connaissances dans le domaine des technologies numériques en région PACA avec, pour le moment, <a href="coding-gouter.php">des coding goûters et des ressources pour animer son atelier</a> et <a href="carte.php"> une carte collaborative</a> recensant les fabs labs et les actions en lien avec notre objet.</p>
        
         </div>
        </div>
@@ -219,8 +219,8 @@
             <div id="modal1" class="modal modal-fixed-footer">
                 <div class="modal-content">
                   <h3>SIRET</h3>
-                  <p>Sous CAPE Cosens<br>SIRET : 419 369 798 00048 <br>N° Formateur : 93 13 113 41 13</p>
-                  <h3>Responsable de la publication :</h3> <p>Agence web <a href="http://cooldev.xyz">Cooldev</a></p>
+                  <p>Association en cours de création </p>
+                  <h3>Responsable de la publication :</h3> <p>Mylène Hiezely pour le collectif</a></p>
                   <h3>Hébergement :</h3>
                   <p><a href="https://gandi.net">GANDI SAS</a>, Société par Actions Simplifiée au capital de 300.000€ ayant son siège social au 63-65 boulevard Massena à Paris (75013) FRANCE, immatriculée sous le numéro 423 093 459 RCS PARIS N° TVA FR81423093459 Téléphone : +33.(0) 1 70.37.76.61 .</p>
                   <h3>Gestion des données personnelles :</h3>
