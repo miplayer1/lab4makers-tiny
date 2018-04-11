@@ -7,6 +7,36 @@
 <?php
 	include('private/views/head.php');
 ?>
+ <title>[LAB]4Makers] | Coding Goûters</title>
+    <meta name="keywords" content="transition numérique, coding goûter, fablab, makerspace, outils numériques, ateliers enfants, scratch, programmation" />
+    <meta name="publisher" content="[LAB]4Makers">
+    <meta name="description" content="Ateliers ludiques de programmation pour les enfants en PACA" />
+
+<!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="[LAB]4Makers | Coding Goûters" />
+	<meta property="og:site_name" content="[LAB]4Makers">
+	<meta property="og:url" content="http://www.labprovence.xyz/" />
+	<meta property="og:description" content="Ateliers ludiques de programmation pour les enfants en PACA" />
+	<meta property="og:type" content="website" />
+	<meta property="og:image" content="http://www.labprovence.xyz/assets/og-img.png" />
+
+
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//analytics.mpaw.xyz/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '9']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+
   </head>
   <body>
 <?php
@@ -16,7 +46,7 @@
 			<div class="content">
 		        <div class="row">
 		          <div class="col s12 center-align">
-						<img class="responsive-img" src="assets/coding.png" alt="Logo TinySite" width="330px">
+						<img class="responsive-img" src="assets/coding.png" alt="Logo coding gouter" width="330px">
 		          </div>
 		          <div class="col s12 ">
 		            <h1 class="center-align">Ateliers ludiques autours du code informatique<br> pour les enfants à partir de 7 ans</h1>
@@ -33,9 +63,17 @@
 		</header>
 		<section>
 			<div class="row">
-			<div class="col s12 m8 offset-m2 grey-text"><p>Nous mettons en place depuis 2016 des ateliers au format "coding goûter" à destination des enfants en région PACA.</p>
+			<div class="col s12 m8 offset-m2 grey-text">
+      <h2 class="center-align padding">Qu'est-ce qu'un coding goûter ?</h2>
+      <div class="col s12 m6 padding">
+      <p>Des ateliers hyper ludiques autour du code informatique. On crée un jeu ou une animation, on partage un goûter, on découvre ce que les autres ont fait... Un moment très convivial que les enfants adorent.</p>
+      <p>Nous mettons en place depuis 2016 des ateliers au format "coding goûter" à destination des enfants en région PACA.<br><br>A partir de 7 ans.</p>
 			</div>
-			<div class="col s12 center-align margin-top"><a class="waves-effect waves-light btn-large"><i class="material-icons">&#xE614;</i>Prochaines dates</a></div>
+      <div class="col s12 m6">
+      <img class="responsive-img" src="assets/coding.jpg" alt="Les enfants découvrent la programmation">
+      </div>
+      </div>
+			<div class="col s12 center-align margin-top"><a class="waves-effect waves-light btn-large"><i class="material-icons left">&#xE614;</i>Prochaines dates</a></div>
 
 			</div>
 		</section>

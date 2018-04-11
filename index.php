@@ -25,22 +25,25 @@
 	<meta property="og:image" content="http://www.labprovence.xyz/assets/og-img.png" />
 
 
-<!-- Piwik -->
-	<script type="text/javascript">
-	  var _paq = _paq || [];
-	  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-	  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-	  _paq.push(['trackPageView']);
-	  _paq.push(['enableLinkTracking']);
-	  (function() {
-	    var u="//analytics.mpaw.xyz/piwik/";
-	    _paq.push(['setTrackerUrl', u+'piwik.php']);
-	    _paq.push(['setSiteId', '7']);
-	    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-	    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-	  })();
-	</script>
-<!-- End Piwik Code -->
+
+
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//analytics.mpaw.xyz/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '9']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+
 
 
   </head>
@@ -199,6 +202,31 @@
 
 	  </div>
 	</section><!--SECTION CONTACT FORM-->
+  <div class="container">
+	<div class="row padding">
+              <h2 class="center-align">Nos partenaires et amis</h2>
+              <div class=" col s12">
+							<span>
+              <a href="http://cooldev.xyz" target="_blank"><img class=" padding " src="assets/partenaires/cooldev.png" alt=""></a>
+              </span>
+              <span>
+              <a href="http://mpaw.xyz" target="_blank"><img class=" padding" src="assets/partenaires/mpaw.png" alt=""></a>
+              </span>
+              <span >
+              <a href="http://ecole-eip-galilee.fr/" target="_blank"><img class="padding " src="assets/partenaires/ep83_80.gif" alt=""></a>
+              </span>
+              <span >
+              <a href="https://www.sunfm83.com/" target="_blank"><img class="padding " src="assets/partenaires/sunFM.png" alt=""></a>
+              </span>
+							<span>
+              <a href="http://www.disaneo.fr" target="_blank"><img class=" padding" src="assets/partenaires/disaneo.png" alt=""></a>
+              </span>
+							<span >
+              <a href="https://www.facebook.com/pg/RetroGeeksStyle" target="_blank"><img class=" padding" src="assets/partenaires/retro-geek.png" alt=""></a>
+              </span>
+						</div>
+						</div>
+						</div>
    <footer class="page-footer">
           <div class="container  ">
             <div class="row ">
@@ -219,12 +247,12 @@
             <div id="modal1" class="modal modal-fixed-footer">
                 <div class="modal-content">
                   <h3>SIRET</h3>
-                  <p>Association en cours de création </p>
+                  <p>Sous CAPE Cosens SIRET 419 369 798 00048<br>2, rue de Rome<br>13001 Marseille</p>
                   <h3>Responsable de la publication :</h3> <p>Mylène Hiezely pour le collectif</a></p>
                   <h3>Hébergement :</h3>
                   <p><a href="https://gandi.net">GANDI SAS</a>, Société par Actions Simplifiée au capital de 300.000€ ayant son siège social au 63-65 boulevard Massena à Paris (75013) FRANCE, immatriculée sous le numéro 423 093 459 RCS PARIS N° TVA FR81423093459 Téléphone : +33.(0) 1 70.37.76.61 .</p>
                   <h3>Gestion des données personnelles :</h3>
-                  <p>Votre vie privée est très importante pour nous. Pour connaître le trafic sur ce site internet, Nous utilisons <a href="https://piwik.org">Piwik</a>. Piwik est une solution d’analytics qui respecte votre vie privée conformément aux recommandations de la CNIL et ne demande aucune déclaration préalable.</p>
+                  <p>Votre vie privée est très importante pour nous. Pour connaître le trafic sur ce site internet, Nous utilisons <a href="https://matomo.org">Matomo</a>. Matomo est une solution d’analytics qui respecte votre vie privée conformément aux recommandations de la CNIL et ne demande aucune déclaration préalable.</p>
                  </div>
                 <div class="modal-footer ">
                   <a href="#!" class="modal-action modal-close btn-floating "><i class="material-icons ">highlight_off</i></a>

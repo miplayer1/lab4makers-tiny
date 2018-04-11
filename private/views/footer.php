@@ -11,14 +11,15 @@
               
             </div>
           </div><!--CITATION-->
+
           <div class="footer-copyright grey-text ">
             <div class="container ">
            <span class="white-text">CC BY-NC-SA 4.0 - 2017 /</span> <a class="white-text" href="http://www.cooldev.xyz" target="_blank">La Team Cooldev</a>
             <a class="modal-trigger right white-text" href="#modal1" >Mentions légales</a>
             <div id="modal1" class="modal modal-fixed-footer">
                 <div class="modal-content">
-                  <h3>SIRET</h3>
-                  <p>Association en cours de création</p>
+                <h3>Collectif LAB4Makers</h3>
+                  <p>LAB4Makers est un collectif informel regroupant plusieurs structures</p>
                   <h3>Responsable de la publication :</h3> <p>Mylène Hiezely pour le collectif</p>
                   <h3>Hébergement :</h3>
                   <p><a href="https://gandi.net">GANDI SAS</a>, Société par Actions Simplifiée au capital de 300.000€ ayant son siège social au 63-65 boulevard Massena à Paris (75013) FRANCE, immatriculée sous le numéro 423 093 459 RCS PARIS N° TVA FR81423093459 Téléphone : +33.(0) 1 70.37.76.61 .</p>

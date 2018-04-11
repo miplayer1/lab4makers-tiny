@@ -49,3 +49,28 @@
 	
 	  </div>
 	</section><!--SECTION CONTACT FORM-->
+	<div class="container">
+	<div class="row padding">
+              <h2 class="center-align">Nos partenaires et amis</h2>
+              <div class=" col s12">
+							<span>
+              <a href="http://cooldev.xyz" target="_blank"><img class=" padding " src="assets/partenaires/cooldev.png" alt=""></a>
+              </span>
+              <span>
+              <a href="http://mpaw.xyz" target="_blank"><img class=" padding" src="assets/partenaires/mpaw.png" alt=""></a>
+              </span>
+							<span >
+              <a href="http://ecole-eip-galilee.fr/" target="_blank"><img class="padding " src="assets/partenaires/ep83_80.gif" alt=""></a>
+              </span>
+              <span >
+              <a href="https://www.sunfm83.com/" target="_blank"><img class="padding " src="assets/partenaires/sunFM.png" alt=""></a>
+              </span>
+							<span>
+              <a href="http://www.disaneo.fr" target="_blank"><img class=" padding" src="assets/partenaires/disaneo.png" alt=""></a>
+              </span>
+							<span >
+              <a href="https://www.facebook.com/pg/RetroGeeksStyle" target="_blank"><img class=" padding" src="assets/partenaires/retro-geek.png" alt=""></a>
+              </span>
+						</div>
+						</div>
+						</div>
